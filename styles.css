@@ -35,6 +35,17 @@ body {
     margin: auto;
 }
 
+.pic {
+    text-align: center;
+    position: center;
+    margin: 5px 150px;
+    margin-left: 150px;
+    margin-right: 140px;
+    margin-top: 20px;
+    max-height: 335px;
+    overflow: hidden;
+
+
 .title {
     color: rgb(173, 253, 1);
     text-align: center;
