@@ -214,7 +214,8 @@ header>ul {
     list-style-position: none;
 }
 .in2 {
-color: fuchsia;
+    color: fuchsia;
+    list-stye-position: inside;
 }
 
 section {
