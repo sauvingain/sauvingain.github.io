@@ -216,6 +216,7 @@ header>ul {
 .in2 {
     color: fuchsia;
     list-stye-position: inside;
+    list-style-type: upper-roman;
 }
 
 section {
