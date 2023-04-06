@@ -16,6 +16,7 @@ ol {
      color: fuchsia;
      list-postion: inside;
      list-style-type: upper-roman;
+     text-align: center;
 }
 
 body {
