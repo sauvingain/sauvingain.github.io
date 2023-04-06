@@ -218,6 +218,8 @@ header>ul {
 }
 .in2 {
     color: fuchsia;
+    list-style-position: inside;
+    list-stye-type: upper-roman;
    
 }
 
