@@ -18,6 +18,10 @@ ol {
      list-style-type: upper-roman;
      text-align: center;
     justify-content: center;
+    
+}
+ol li {
+            padding: 2px;
 }
 
 body {
