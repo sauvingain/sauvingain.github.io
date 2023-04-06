@@ -8,9 +8,7 @@
 
 p::first-letter {
         font-size: 1.4em;
-        text-emphasis-style: "*";
-        text-emphasis-color: pink;
-    }
+        }
 /* This removes any bullet points or styling in lists */
 
 ul li {
