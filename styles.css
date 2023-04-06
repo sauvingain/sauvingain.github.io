@@ -6,7 +6,11 @@
     padding: 0px;
 }
 
-
+p::first-letter {
+        font-size: 1.2em;
+        text-emphasis-style: "*";
+        text-emphasis-color: pink;
+    }
 /* This removes any bullet points or styling in lists */
 
 ul li {
