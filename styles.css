@@ -224,6 +224,9 @@ header>ul {
     color: #cfa5b3;
     font-size: 28px;
 }
+.class::aafter{
+    content: " ➥";
+}   
 
 .col {
     color: rgb(198, 246, 27);
