@@ -20,9 +20,14 @@ ol {
     justify-content: center;
     
 }
-ol li {
-            padding: 2px;
-}
+
+  ol li {
+        padding: 0px;
+        margin-left: 100px;
+        text-align: left;
+        margin-left: 45%;
+    }
+
 
 body {
     background-color: rgb(0, 0, 0);
