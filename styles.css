@@ -12,6 +12,9 @@
 ul li {
     list-style-type: none;
 }
+ol { color: fuchsia;
+    list-postion: inside;
+        list-style-type: upper-roman;
 
 body {
     background-color: rgb(0, 0, 0);
@@ -215,8 +218,7 @@ header>ul {
 }
 .in2 {
     color: fuchsia;
-    list-stye-position: inside;
-    list-style-type: upper-roman;
+   
 }
 
 section {
