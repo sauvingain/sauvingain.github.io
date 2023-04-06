@@ -226,6 +226,10 @@ header>ul {
     list-stye-type: upper-roman;
    
 }*/
+.center {
+        text-align: center;
+        justify-contents: center;
+}
 
 section {
     color: #3aa598;
